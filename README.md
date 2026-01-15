@@ -95,7 +95,3 @@ helix/
 - **Editor Component**: QScintilla
 - **Language**: Python 3.x
 - **Process Execution**: QProcess for running Python scripts
-
----
-
-Built with ❤️ using Python and PyQt5
