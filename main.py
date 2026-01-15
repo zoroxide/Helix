@@ -1,5 +1,5 @@
 """
-A Modern Code Editor for Python Development
+Helix - A Modern Python IDE
 
 Entry point for the application
 
